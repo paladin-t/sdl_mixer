@@ -1,0 +1,16 @@
+VisualC/.vs
+
+VisualC/Win32
+VisualC/native_midi/Win32
+VisualC/playmus/Win32
+VisualC/playwave/Win32
+VisualC/timidity/Win32
+
+VisualC/x64
+VisualC/native_midi/x64
+VisualC/playmus/x64
+VisualC/playwave/x64
+VisualC/timidity/x64
+
+*.VC.db
+*.VC.VC.opendb
