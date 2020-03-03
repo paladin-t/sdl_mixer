@@ -12,6 +12,8 @@
 /VisualC/playwave/x64
 /VisualC/timidity/x64
 
+/lib/*.framework
+
 /lib/x64/*.lib
 /lib/x64/*.dll
 /lib/x64/*.dylib
